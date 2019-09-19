@@ -60,16 +60,16 @@ REST API를 통해 가져온 JSON Format 데이터를 처리할 수 있는 Data�
 
 REST API이용에 필요한 URL이 정의되어 있는 클래스
 
-### Resource
-#### Elevator
+## Resource
+### Elevator
 
 Elevator 클래스
 
-#### Call
+### Call
 
 Call 클래스
 
-#### Command
+### Command
 
 Command 클래스
 
