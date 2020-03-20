@@ -7,6 +7,8 @@
 
 문제와 해설: https://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/
 
+풀이 ver.02 (FIFO) : https://github.com/ckddn9496/2019KAKAOBLINDRECRUITMENT_2nd_Java_Elevator_ver.02
+
 ## 2. 코드 구성
 > 코드 리팩토링이 되지 않아 구조가 조금 복잡합니다.
 
